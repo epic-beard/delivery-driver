@@ -1,0 +1,20 @@
+{
+    "asset": "a54aaad2ea3f1b143b666cba9391106f",
+    "fileName": "0199f988-6c0d-7bde-b705-013d68b333f4.png",
+    "prompt": "One centered car, looking directly down on it, bright colors and simplistic, transparent background",
+    "negativePrompt": "isometric, multiple cars",
+    "model": "242b56c1-2224-41c4-8949-2ba760bbfc69",
+    "modelName": "16-bit Pixel",
+    "customSeed": -1,
+    "w3CTraceId": "25ab11083c22c0394f6a6da21923fe49",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

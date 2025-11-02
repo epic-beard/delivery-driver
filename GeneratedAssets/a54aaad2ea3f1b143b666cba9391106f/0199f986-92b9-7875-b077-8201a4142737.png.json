@@ -1,0 +1,20 @@
+{
+    "asset": "a54aaad2ea3f1b143b666cba9391106f",
+    "fileName": "0199f986-92b9-7875-b077-8201a4142737.png",
+    "prompt": "2d, top/down, car, bright colors",
+    "negativePrompt": "isometric",
+    "model": "242b56c1-2224-41c4-8949-2ba760bbfc69",
+    "modelName": "16-bit Pixel",
+    "customSeed": -1,
+    "w3CTraceId": "17c28a74a6c465ac3d585bfe239a2bb8",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
